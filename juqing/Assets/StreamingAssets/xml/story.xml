@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Record dataType="int,string,string,string,string,string,string" />
+  <Record id="1" chapter="1" index="1" content="你是故意与我争斗，以骗取启魂邪教的信任？" hero="aa" heroName="洛昭言" type="1" />
+  <Record id="2" chapter="1" index="2" content="没错。不瞒兄弟，我们两人昨天刚到盈辉堡，这丫头就上了刚才那家伙的当，把钱全给了那个什么圣宗。没办法，我只好装傻跟那个教使套近乎，看能不能想法把钱弄回来" hero="bb" heroName="越今朝" type="0" />
+  <Record id="3" chapter="1" index="3" content="我没上当，以前就见过穿这种衣服的骗子啊。可是你说过，要是别人都去做一件事，我最好也跟着做。昨天好多人都把钱给他了啊。" hero="aa" heroName="祈" type="1" />
+  <Record id="4" chapter="1" index="4" content="我教过你明知是坑还往里跳吗？" hero="aa" heroName="越今朝" type="1" />
+  <Record id="5" chapter="1" index="5" content="我教过你明知是坑还往里跳吗？" hero="bb" heroName="祈" type="0" />
+  <Record id="6" chapter="2" index="1" content="我一定是上辈子欠你的…… " hero="aa" heroName="越今朝" type="1" />
+  <Record id="7" chapter="2" index="2" content="加斯递交的年代" hero="bb" heroName="洛昭言" type="0" />
+  <Record id="8" chapter="2" index="3" content=":那个……两位……" hero="aa" heroName="aa" type="1" />
+  <Record id="9" chapter="2" index="4" content="呃……咳咳。我叫越今朝，这是越祈，兄弟怎么称呼？" hero="bb" heroName="越今朝" type="0" />
+  <Record id="10" chapter="2" index="5" content="洛昭言" hero="aa" heroName="洛昭言" type="1" />
+  <Record id="11" chapter="2" index="6" content="难道您就是这一带有名的昙华洛家的家主？" hero="bb" heroName="越今朝" type="0" />
+</root>

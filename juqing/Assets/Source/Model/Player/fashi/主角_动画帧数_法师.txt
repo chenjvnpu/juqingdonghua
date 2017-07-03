@@ -1,0 +1,30 @@
+	主角   法师       
+
+
+<<<<<<< .mine
+Idle_Normal	普通待机	40-100
+XiuXian         休闲动作        100-200
+Idle_Fight	战斗待机	420-480
+HurtBack	击退		541-565
+HurtFly		击飞		567-613
+HurtStandup	起身		614-681
+HurtJiDao	击倒		683-721
+Die		死亡		486-538
+Victory  	胜利		210-315
+Run		跑步		10-32
+HurtBingDong	冰冻		544
+Skill1		技能1		800-842 闪电走
+Skill2		技能2		850-886 风
+Skill3		技能3		890-933 三道印（未定）
+Skill4		技能4		940-964 霜冻新星
+Skill5		技能5		970-1010 火陨石
+Skill6		技能6		1020-1050 未定
+PhyAttack1	物理攻击子招式1	1060-1076	
+PhyAttack2	物理攻击子招式2	1077-1092	
+PhyAttack3	物理攻击子招式3	1093-1112	
+PhyAttack4	物理攻击子招式4	1113-1136	
+PhyAttack5	物理攻击子招式5	1137-1158	
+HurtXuanYun	眩晕		724-764
+Show            展示            320-380
+nvshen		女神站立雕塑	1159-1160
+

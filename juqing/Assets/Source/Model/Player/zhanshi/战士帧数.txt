@@ -1,0 +1,26 @@
+主角   战士      
+
+Idle_Normal	待机	        2-62	 
+XiuXian         休闲            63-160
+Idle_Fight	战斗待机	170-215
+HurtBack	击退		216-237
+HurtFly		击飞		238-282
+HurtStandup	起身		287-332
+HurtJiDao	击倒		334-366
+Victory		胜利		369-460
+Die		死亡		461-547
+HurtXuanYun	眩晕		550-590
+HurtBingDong	冰冻		559-559（俩个定格动画）
+Skill1		技能1		740-773  冲锋
+Skill2		技能2		780-828  踩劈
+Skill3		技能3		840-897  旋风斩
+Skill4		技能4		900-980  狂斩
+Skill5		技能5		990-1088 挑飞斩
+Skill6		技能6		1095-1151跳拳
+PhyAttack1	物理攻击子招式1		630-641
+PhyAttack2	物理攻击子招式2		642-651
+PhyAttack3	物理攻击子招式3		652-676
+PhyAttack4	物理攻击子招式4		677-693
+PhyAttack5	物理攻击子招式5		694-724
+Run		跑步		593-617
+Show             展示          1157-1208

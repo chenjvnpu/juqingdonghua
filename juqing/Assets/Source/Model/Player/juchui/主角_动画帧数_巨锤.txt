@@ -1,0 +1,28 @@
+	主角   巨锤
+
+Idle_Normal	普通待机	1-61
+XiuXian         休闲动作        62-122
+Idle_Fight	战斗待机	190-235
+HurtBack	击退		237-257
+HurtFly		击飞		260-296
+HurtStandup	起身		297-319
+HurtJiDao	击倒		321-353
+Die		死亡		356-425
+Victory  	胜利		461-511
+Run		跑步		516-538
+HurtBingDong	冰冻		428-428
+Skill1		技能1		552-616  跳锤
+Skill2		技能2		621-722  旋风锤
+Skill3		技能3		727-820  扔锤子
+Skill4		技能4		824-865  冲刺
+Skill5		技能5		872-968  樱花幻影
+Skill6		技能6		977-1070 怪物猎人三连锤
+PhyAttack1	物理攻击子招式1	1075-1087	
+PhyAttack2	物理攻击子招式2	1088-1102
+PhyAttack3	物理攻击子招式3	1103-1116
+PhyAttack4	物理攻击子招式4	1117-1135
+PhyAttack5	物理攻击子招式5	1136-1166
+HurtXuanYun	眩晕		428-458
+Show            展示            124-184
+
+
